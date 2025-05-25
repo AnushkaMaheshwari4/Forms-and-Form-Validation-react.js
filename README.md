@@ -56,8 +56,11 @@ CSS3 – For styling the components (App.css and .container, .error, etc. classe
 
 src/
 App.js         # Main form component with validation logic
+
 Success.js     # Displays success message and submitted data
+
 App.css        # Styling for form and success pages
+
 index.js       # React app entry point with router setup
 
 ___
@@ -70,8 +73,11 @@ ___
 ___
 
 🙋‍♀️Author
+
 Anushka Maheshwari
+
 📧anushkamaheshwari1409@gmail.com
+
 🌐https://github.com/AnushkaMaheshwari4
 
 www.linkedin.com/in/anushka-maheshwari777
