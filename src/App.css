@@ -1,0 +1,48 @@
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+form div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 3px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0b79f7;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+
+.show-hide-btn {
+  margin-top: 5px;
+  background: none;
+  border: none;
+  color: #0b79f7;
+  cursor: pointer;
+}
